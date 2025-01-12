@@ -1,0 +1,22 @@
+.credits {
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.credits p {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 0;
+}
+
+.credits a {
+    color: #0ea5e9;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.credits a:hover {
+    text-decoration: underline;
+}
